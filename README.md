@@ -1,7 +1,7 @@
 # domains-resolving-to-local-ip
 A list of domains that resolve to local IP's, most likely used to stage attacks at vulnerable network equipment
 
-#How to use
+## How to use
 
 Just add https://raw.githubusercontent.com/KarolS/domains-resolving-to-local-ip/master/list.txt as a blocklist to your adblocker. 
 
